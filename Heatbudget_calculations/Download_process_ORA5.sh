@@ -6,11 +6,11 @@
 
 
 bas_url='https://icdc.cen.uni-hamburg.de/thredds/fileServer/ftpthredds/EASYInit/oras5/r1x1/'
-var='vozocrte'
+var='sometauy'
 run='/opa0/'
 ext='_r1x1.tar.gz'
 #tmask2D_r1x1.nc  tmask_r1x1.nc  umask2D_r1x1.nc  umask_r1x1.nc  vmask2D_r1x1.nc  vmask_r1x1.nc
-LSM_file='tmask_r1x1.nc'
+LSM_file='vmask2D_r1x1.nc'
 
 #generate file list
 for year in {1980..2018}; do
@@ -37,6 +37,21 @@ regrid_shallow () {
         rm $OUTDIR/lev*
 }
 
+regrid_2d () {
+        #$1 = depth_idx
+        #$2 = file
+        #mk outdire if not there
+        OUTDIR=$outdir/$3
+        mkdir -p $OUTDIR
+        FILE="${1##*/}"
+        LSM=$outdir/LSM/$2
+        cdo ifthen $LSM $1 $OUTDIR/tmp.nc
+        cdo -remapbil,global_1 $OUTDIR/tmp.nc $OUTDIR/$FILE
+        rm $OUTDIR/tmp.nc
+}
+
+
+
 outdir='/home/z5113258/Documents/ORAS5/'
 #mkdir -p ${outdir}LSM
 ##downlaod LSM
@@ -60,8 +75,9 @@ do
 	for M in 0{1..9} {10..12};do
 	    ncfile=`echo "${var1}${M}_r1x1.nc"`
 	    #now use cdo on the file
-	    regrid_shallow "$outdir/full/$var/$ncfile" "$LSM_file" "${var}_70"
-            #remove file used 
+	    #regrid_shallow "$outdir/full/$var/$ncfile" "$LSM_file" "${var}_70"
+            regrid_2d "$outdir/full/$var/$ncfile" "$LSM_file" "${var}_surf"
+	    #remove file used 
 	    rm $outdir/full/$var/$ncfile
 	done
         #now remove file aftyer getting data from it
