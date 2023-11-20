@@ -55,13 +55,7 @@ do
 	    #extract var name from dir
 	    for ncfile in ${file}/*.nc; do
 		#go through each file in dir
-		if [[ $vari = "thetao" ]]; then
-		    #echo $vari $model
-		    regrid_shallow $ncfile $model $vari
-		elif [[ $vari = "hfds" ]]
-		then
-                    #echo $vari
-		    #regrid data
+		if [[ $vari = "mlotst" ]]; then
 		    regrid_2d $ncfile $model $vari
 		fi
 	    done

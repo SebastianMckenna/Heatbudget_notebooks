@@ -7,3 +7,27 @@
 /g/data/oi10/replicas/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3/historical/r1i1p1f1/Omon/rsntds/gn/v20200918/
 /g/data/oi10/replicas/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3/historical/r1i1p1f1/Omon/tauuo/gn/v20200918/
 /g/data/oi10/replicas/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3/historical/r1i1p1f1/Omon/tauvo/gn/v20200918/
+/g/data/oi10/replicas/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3/historical/r1i1p1f1/Omon/tos/gn/v20200918/
+
+Everything available on ESGF is also available locally
+/g/data/oi10/replicas/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3/historical/r1i1p1f1/Amon/hfls/gr/v20200310/
+
+Everything available on ESGF is also available locally
+/g/data/oi10/replicas/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3/historical/r1i1p1f1/Amon/hfss/gr/v20200310/
+
+Everything available on ESGF is also available locally
+/g/data/oi10/replicas/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3/historical/r1i1p1f1/Amon/rlds/gr/v20200310/
+
+Everything available on ESGF is also available locally
+/g/data/oi10/replicas/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3/historical/r1i1p1f1/Amon/rlus/gr/v20200310/
+
+Everything available on ESGF is also available locally
+/g/data/oi10/replicas/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3/historical/r1i1p1f1/Amon/rsds/gr/v20200310/
+
+Everything available on ESGF is also available locally
+/g/data/oi10/replicas/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3/historical/r1i1p1f1/Amon/rsus/gr/v20200310/
+
+Everything available on ESGF is also available locally
+/g/data/oi10/replicas/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3/historical/r1i1p1f1/fx/sftlf/gr/v20200310/
+
+Everything available on ESGF is also available locally

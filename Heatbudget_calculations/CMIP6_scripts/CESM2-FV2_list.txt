@@ -7,3 +7,28 @@
 /g/data/oi10/replicas/CMIP6/CMIP/NCAR/CESM2-FV2/historical/r1i1p1f1/Omon/rsntds/gn/v20191120/
 /g/data/oi10/replicas/CMIP6/CMIP/NCAR/CESM2-FV2/historical/r1i1p1f1/Omon/tauuo/gn/v20191120/
 /g/data/oi10/replicas/CMIP6/CMIP/NCAR/CESM2-FV2/historical/r1i1p1f1/Omon/tauvo/gn/v20191120/
+/g/data/oi10/replicas/CMIP6/CMIP/NCAR/CESM2-FV2/historical/r1i1p1f1/Omon/tos/gn/v20191120/
+/g/data/oi10/replicas/CMIP6/CMIP/NCAR/CESM2-FV2/historical/r1i1p1f1/Omon/tos/gr/v20191120/
+
+Everything available on ESGF is also available locally
+/g/data/oi10/replicas/CMIP6/CMIP/NCAR/CESM2-FV2/historical/r1i1p1f1/Amon/hfls/gn/v20191120/
+
+Everything available on ESGF is also available locally
+/g/data/oi10/replicas/CMIP6/CMIP/NCAR/CESM2-FV2/historical/r1i1p1f1/Amon/hfss/gn/v20191120/
+
+Everything available on ESGF is also available locally
+/g/data/oi10/replicas/CMIP6/CMIP/NCAR/CESM2-FV2/historical/r1i1p1f1/Amon/rlds/gn/v20191120/
+
+Everything available on ESGF is also available locally
+/g/data/oi10/replicas/CMIP6/CMIP/NCAR/CESM2-FV2/historical/r1i1p1f1/Amon/rlus/gn/v20191120/
+
+Everything available on ESGF is also available locally
+/g/data/oi10/replicas/CMIP6/CMIP/NCAR/CESM2-FV2/historical/r1i1p1f1/Amon/rsds/gn/v20191120/
+
+Everything available on ESGF is also available locally
+/g/data/oi10/replicas/CMIP6/CMIP/NCAR/CESM2-FV2/historical/r1i1p1f1/Amon/rsus/gn/v20191120/
+
+Everything available on ESGF is also available locally
+/g/data/oi10/replicas/CMIP6/CMIP/NCAR/CESM2-FV2/historical/r1i1p1f1/fx/sftlf/gn/v20191120/
+
+Everything available on ESGF is also available locally

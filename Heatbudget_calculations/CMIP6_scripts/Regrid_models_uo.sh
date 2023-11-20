@@ -1,6 +1,6 @@
 #!/bin/bash
 #PBS -P e14
-#PBS -l walltime=48:00:00
+#PBS -l walltime=22:00:00
 #PBS -l mem=28GB
 #PBS -q normalbw
 #PBS -l wd
@@ -55,14 +55,9 @@ do
 	    #extract var name from dir
 	    for ncfile in ${file}/*.nc; do
 		#go through each file in dir
-		if [[ $vari = "thetao" ]]; then
+		if [[ $vari = "uo" ]]; then
 		    #echo $vari $model
 		    regrid_shallow $ncfile $model $vari
-		elif [[ $vari = "hfds" ]]
-		then
-                    #echo $vari
-		    #regrid data
-		    regrid_2d $ncfile $model $vari
 		fi
 	    done
 	done

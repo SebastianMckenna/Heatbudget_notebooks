@@ -7,3 +7,27 @@
 /g/data/oi10/replicas/CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/Omon/rsntds/gn/v20190710/
 /g/data/oi10/replicas/CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/Omon/tauuo/gn/v20190710/
 /g/data/oi10/replicas/CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/Omon/tauvo/gn/v20190710/
+/g/data/oi10/replicas/CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/Omon/tos/gn/v20190710/
+
+Everything available on ESGF is also available locally
+/g/data/oi10/replicas/CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/Amon/hfls/gn/v20190710/
+
+Everything available on ESGF is also available locally
+/g/data/oi10/replicas/CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/Amon/hfss/gn/v20190710/
+
+Everything available on ESGF is also available locally
+/g/data/oi10/replicas/CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/Amon/rlds/gn/v20190710/
+
+Everything available on ESGF is also available locally
+/g/data/oi10/replicas/CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/Amon/rlus/gn/v20190710/
+
+Everything available on ESGF is also available locally
+/g/data/oi10/replicas/CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/Amon/rsds/gn/v20190710/
+
+Everything available on ESGF is also available locally
+/g/data/oi10/replicas/CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/Amon/rsus/gn/v20190710/
+
+Everything available on ESGF is also available locally
+/g/data/oi10/replicas/CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/fx/sftlf/gn/v20190710/
+
+Everything available on ESGF is also available locally
